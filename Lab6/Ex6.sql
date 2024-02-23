@@ -1,0 +1,2 @@
+SELECT * FROM Persons 
+WHERE P_ID  BETWEEN 2 AND 4;
